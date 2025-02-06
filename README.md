@@ -1,41 +1,38 @@
 # AnimalVision-See-Hear-Learn-About-Any-Creature-Instantly
-**See, Hear & Learn About Any Creature – Instantly!**
+# 🌍 See, Hear & Learn About Any Creature – Instantly! 🦁🎧📖
 
-## Overview
-WildVision is an AI-powered application that helps users identify and learn about animals, birds, and insects. Whether you have an image but don’t know the name or just a name without an image, WildVision provides relevant images, detailed information in multiple languages, and an audio narration of the details.
+## 📌 About the Project
 
-## Features
-- **Search by Image or Name:** Upload an image or enter an animal’s name to retrieve information.
-- **Multilingual Support:** Get details in your preferred language.
-- **Multiple Image Results:** Choose how many related images you want to see.
-- **Audio Narration:** Listen to the information in any language.
-- **Fast & Accurate:** Uses AI-powered image and text retrieval via Qdrant and OpenAI.
+Ever wondered about an animal but only have its image or name? 🤔 Our app lets you **identify, explore, and listen** to details about any creature in your preferred language! 🗣️🌐 Simply upload an **image** 🖼️ or enter a **name** ✍️, select the number of images to display, choose a language, and get instant insights – both in text and voice! 🎙️
 
-## How It Works
-1. **Choose Input Type** – Select whether you want to search by name or image.
-2. **Enter Name / Upload Image** – Provide the required input.
-3. **Select Preferences** – Choose the number of images and language for information.
-4. **Get Results** – View related images, animal name, detailed information, and listen to the narration.
+## 🚀 Features
 
-## Technologies Used
-- **FastAPI** – Backend API
-- **Streamlit** – Frontend UI
-- **Qdrant** – Vector Database for Image Search
-- **Transformers (CLIP Model)** – Image Embeddings
-- **OpenAI API** – Information Retrieval & Text-to-Speech
-- **TensorFlow** – Image Processing
+- 🔍 **Search by Image or Name** – Identify animals with a picture or by typing their name.
+- 🏞️ **Get Related Images** – View multiple images of the searched animal.
+- 🌐 **Multilingual Support** – Receive information in any language of your choice.
+- 🎙️ **Text-to-Speech** – Listen to the animal’s details in your preferred language.
+- ⚡ **Fast & Accurate** – Uses advanced AI and embeddings stored in Qdrant for quick searches.
 
-## License
-This project is open-source and available.
+## 🛠️ Tech Stack
 
-## Contributors
-- **Tamanna Singh** *(Project Developer)*
+- **Backend:** FastAPI 🚀
+- **Frontend:** Streamlit 🎨
+- **Database:** Qdrant 🗄️
+- **Model:** OpenAI CLIP 🧠
+- **Voice Synthesis:** TTS Engine 🔊
 
-## Future Enhancements
-- Support for more languages
-- Improved search accuracy
+## 📸 How It Works
 
-Feel free to contribute or report issues!
+1️⃣ **Select an option** – Choose whether to search by image or name.\
+2️⃣ **Provide Input** – Upload an image 📷 or type the animal’s name ✍️.\
+3️⃣ **Choose Preferences** – Select the number of images and preferred language 🌍.\
+4️⃣ **Get Instant Results** – View images, name, and detailed information 📖.\
+5️⃣ **Listen to Info** – Hear details in your chosen language 🔊.
+
+## 📬 Contributing
+
+We welcome contributions! 🌟 Feel free to fork the repository, submit issues, or create pull requests.
+
 
 ---
 **AnimalVision – Your AI-powered wildlife guide!**
