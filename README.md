@@ -1,4 +1,4 @@
-# AnimalVision-See-Hear-Learn-About-Any-Creature-Instantly
+# AnimalVision
 # 🌍 See, Hear & Learn About Any Creature – Instantly! 🦁🎧📖
 
 ## 📌 About the Project
